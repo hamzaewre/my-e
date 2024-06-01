@@ -1,0 +1,30 @@
+body{
+  font-family: 'Permanent Marker', cursive;
+  background-color:red;
+  text-align: center
+  ;
+}
+li{
+  color:purple;
+}
+
+
+h1{
+  color:purple;
+}
+
+h3{
+  color:green;
+}
+
+
+h1{
+  border-style:dotted;
+}
+
+ul{
+  border-style:dashed;
+}
+
+
+img{width:45%;}
